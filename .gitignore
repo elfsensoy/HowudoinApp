@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# ===== React Native =====
+mobile/node_modules/
+mobile/ios/Pods/
+mobile/ios/build/
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/build/
+
+# ===== Spring Boot =====
+backend/build/
+backend/.gradle/
+backend/out/
+backend/.idea/
+backend/*.iml
+
+# logs
+*.log
